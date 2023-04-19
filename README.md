@@ -12,6 +12,6 @@
      - Another shows City, Property ID, Name, ADR, Cancellation %, DBRN, DSRN, DURN, Occupancy%, Realisation%, RevPAR, Room Class, Average Rating and Revenue.
 6. Also created a Donut Chart showing Average Rating given by the customers.
 7. Now finally, there're three different graphs denoting week on week % (WOW%) change :
-     - Revenue & RevPAR WOW% Change - ![#ffff00](https://placehold.co/15x15/ffff00/ffff00.png) bar denoting RevPAR and - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) line denoting Revenue
+     - Revenue & RevPAR WOW% Change - ![#ffff00](https://placehold.co/15x15/ffff00/ffff00.png) bar denoting RevPAR and ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) line denoting Revenue
      - ADR & DSRN WOW% Change - The **↑** above bubbles denoting ADR while the **↓** below one denoting DSRN 
      - Occupancy & Realisation WOW% Change - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) line denoting Occupancy and ![#0000ff](https://placehold.co/15x15/0000ff/0000ff.png) line denoting Realisation
